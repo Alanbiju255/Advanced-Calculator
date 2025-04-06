@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🔢 Advanced Scientific Calculator (Web-Based)
 
 A sleek, modern, and fully functional **scientific calculator** built using pure **HTML**, **CSS**, and **JavaScript**. Designed with a dark theme, this calculator supports both basic arithmetic and advanced scientific operations like trigonometry, logarithms, square roots, powers, and more.
@@ -20,24 +18,18 @@ A sleek, modern, and fully functional **scientific calculator** built using pure
 ✅ Backspace and Clear functions  
 ✅ Clean and modern UI with dark theme
 
----
 
 ## 🖥️ Live Preview
 
-> Coming soon (host it on GitHub Pages or Netlify to share it!)
+> Coming soon 
 
----
 
 ## 📂 File Structure
 
-```
 calculator/
 │
 ├── index.html        # Main calculator file (HTML, CSS, JS in one)
 ├── README.md         # Project documentation
-```
-
----
 
 ## 🧠 How It Works
 
@@ -45,7 +37,6 @@ calculator/
 - Replaces `^` with `**` to simulate power functionality.
 - Functions like `sin()`, `log()`, etc., are handled via `Math` library in JavaScript.
 
----
 
 ## 💡 How to Use
 
@@ -61,8 +52,7 @@ calculator/
 2. **Open the `index.html` file in any web browser**:
    - Double-click the file
 
----
----
+
 
 ## 🔧 Future Ideas
 
@@ -72,13 +62,9 @@ calculator/
 - 🧾 Memory history or export to text file  
 - 🌗 Light/Dark mode toggle
 
----
-
 ## 📄 License
 
 This project is licensed under the [Alan]
 
----
 
 > Built with ❤️ using just HTML, CSS & JavaScript.
-```
